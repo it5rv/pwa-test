@@ -1,7 +1,7 @@
 {
     "name": "P.W.A",
     "short_name": "PWA",
-    "start_url": "https://adnaan-ansari.github.io/pwa-test/",
+    "start_url": "index.htm",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
