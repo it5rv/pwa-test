@@ -4,7 +4,7 @@
     "start_url": "index.htm",
     "icons": [
         {
-            "src": "/IMG/android-chrome-192x192.png",
+            "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "purpose": "maskable any",
             "type": "image/png"
