@@ -1,7 +1,7 @@
 {
     "name": "P.W.A",
     "short_name": "PWA",
-    "start_url": "/index.htm",
+    "start_url": "index.htm",
     "icons": [
         {
             "src": "/IMG/android-chrome-192x192.png",
