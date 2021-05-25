@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    /*border-style: solid;*/
+    flex-direction: column;
+    width: 100vw;
+    
+    align-items: center;
+    background-color: #293031;
+    
+}
+.container div{
+    /*border-style: solid;
+    border-color: brown;*/
+    width: 80vw;
+    margin:3px;
+    color: cornsilk;
+    
+}
+img{
+    display: block;
+    margin-left: 20vw;
+    margin-right: 30vw;
+    width: 40vw;
+    /*border-color: chartreuse;
+    border-width: 5px;*/
+    border-radius: 100%;
+}
+.nav ul  li{
+    display: inline;
+    padding:40px ;
+    font-family:cursive;
+    
+}
+.nav{
+    text-align: center;
+    font-size: 30px;
+    border-radius: 40px;
+    width: 100%;
+    background-color: #588D7B;
+    
+}
+.nav ul li a{
+    color: #F3455B;
+}
