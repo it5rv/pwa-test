@@ -4,13 +4,13 @@
     "start_url": "index.htm",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/pwa-test/IMG/android-chrome-192x192.png",
             "sizes": "192x192",
             "purpose": "maskable any",
             "type": "image/png"
         },
         {
-            "src": "/IMG/android-chrome-512x512.png",
+            "src": "/pwa-test/IMG/android-chrome-512x512.png",
             "sizes": "512x512",
             "purpose": "maskable any",
             "type": "image/png"
