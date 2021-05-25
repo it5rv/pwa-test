@@ -8,13 +8,8 @@ self.addEventListener('install', e => {
   e.waitUntil(
     caches.open(cacheName).then(cache => {
       return cache.addAll([
-        '/',
-        /*
-          DEAR READER,
-          ADD A LIST OF YOUR ASSETS THAT
-          YOU WANT TO WORK WHEN OFFLINE
-          TO THIS ARRAY OF URLS
-        */
+        {'index.htm'}
+        {'style69.css'}
       ]).then(() => self.skipWaiting());
     })
   );
