@@ -1,7 +1,7 @@
 {
     "name": "P.W.A",
     "short_name": "PWA",
-    "start_url": "index.htm",
+    "start_url": "https://it5rv.github.io/pwa-test/",
     "icons": [
         {
             "src": "/pwa-test/IMG/android-chrome-192x192.png",
